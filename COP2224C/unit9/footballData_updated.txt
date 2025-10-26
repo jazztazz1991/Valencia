@@ -1,0 +1,30 @@
+John Smith
+Quarterback
+18 250 3200 150 300
+Mike Johnson
+Wide Receiver
+12 340 0 1250 75
+Alex Davis
+Running Back
+10 100 0 300 1420
+Chris Lee
+Tight End
+7 110 0 850 100
+Ryan Walker
+Quarterback
+25 310 4100 200 120
+David Allen
+Wide Receiver
+9 270 0 1130 65
+Jason Kim
+Quarterback
+11 90 0 280 1350
+Eric Thompson
+Tight End
+6 105 0 820 130
+James White
+Wide Receiver
+8 260 0 980 90
+Kevin Brooks
+Quarterback
+20 295 3500 180 210
