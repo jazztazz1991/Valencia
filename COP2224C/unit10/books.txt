@@ -1,0 +1,37 @@
+The Great Gatsby
+1
+F. Scott Fitzgerald
+Scribner
+9780743273565
+10.99
+5
+To Kill a Mockingbird
+1
+Harper Lee
+J.B. Lippincott & Co.
+9780061120084
+7.99
+8
+1984
+1
+George Orwell
+Secker & Warburg
+9780451524935
+9.99
+12
+Introduction to Algorithms
+3
+Thomas H. Cormen
+Charles E. Leiserson
+Ronald L. Rivest
+MIT Press
+9780262033848
+89.95
+3
+Clean Code: A Handbook of Agile Software Craftsmanship
+1
+Robert C. Martin
+Prentice Hall
+9780132350884
+39.99
+3
